@@ -1,0 +1,52 @@
+[
+    {
+        "pergunta": "Quem é conhecido como o Rei do Futebol?",
+        "opcoes": [
+            "Pelé",
+            "Neymar",
+            "Romário",
+            "Ronaldinho"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos jogadores cada equipe começa normalmente em campo?",
+        "opcoes": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Qual seleção venceu a Copa do Mundo de 2002?",
+        "opcoes": [
+            "Brasil",
+            "Alemanha",
+            "Argentina",
+            "França"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual jogador brasileiro ficou conhecido como Fenômeno?",
+        "opcoes": [
+            "Kaká",
+            "Ronaldo",
+            "Cafu",
+            "Romário"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Qual cartão normalmente significa a expulsão de um jogador?",
+        "opcoes": [
+            "Azul",
+            "Verde",
+            "Amarelo",
+            "Vermelho"
+        ],
+        "resposta": 4
+    }
+]
